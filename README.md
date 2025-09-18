@@ -11,14 +11,6 @@ The Informer Network is a dynamic web application designed to keep users in rhyt
 - **Interactive UI:** An intuitive and responsive user interface built with Bootstrap 4, ensuring a seamless experience across different devices.
 - **News Details:** Each news item includes an image, title, description, publication date, and a "Read More" link to the full article.
 
-## **Preview**
-
-### PC View
-![PC View](screenshots/pc-view.png)
-
-### Phone View
-![Phone View](screenshots/phone-view.png)
-
 ## **Technology Stack**
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap 4
